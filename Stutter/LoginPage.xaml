@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Stutter.LoginPage"
+             BackgroundColor="MediumPurple">
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+
+    <Label Text="Logo" FontSize="Large"
+           HorizontalOptions="Center" Margin="60"
+           >
+
+    </Label>
+
+
+    <Label Text="Signin To Stutter" FontSize="Large"
+           HorizontalOptions="Center"
+           >
+
+    </Label>
+
+    <Entry ClassId="numberEntry"
+        FontSize="Large" Placeholder="Phone number or Email"
+        Margin=".5" WidthRequest="220" MaxLength="11"
+        Keyboard="Telephone"
+        >
+        
+    </Entry>
+
+        <Button BackgroundColor="white" Text="next page"
+                Clicked="NavigateButton_OnClicked"/>
+
+    </StackLayout>
+
+    
+    <!-- <ContentPage.Content> -->
+    <!--</ContentPage.Content>-->
+</ContentPage>

@@ -1,0 +1,14 @@
+/Users/me4nmug./Projects/Stutter/Stutter/bin/Release/netstandard2.0/Stutter.deps.json
+/Users/me4nmug./Projects/Stutter/Stutter/bin/Release/netstandard2.0/Stutter.dll
+/Users/me4nmug./Projects/Stutter/Stutter/bin/Release/netstandard2.0/ref/Stutter.dll
+/Users/me4nmug./Projects/Stutter/Stutter/bin/Release/netstandard2.0/Stutter.pdb
+/Users/me4nmug./Projects/Stutter/Stutter/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/me4nmug./Projects/Stutter/Stutter/obj/Release/netstandard2.0/LoginPage.xaml.g.cs
+/Users/me4nmug./Projects/Stutter/Stutter/obj/Release/netstandard2.0/MyTabbedPage.xaml.g.cs
+/Users/me4nmug./Projects/Stutter/Stutter/obj/Release/netstandard2.0/Stutter.csproj.CoreCompileInputs.cache
+/Users/me4nmug./Projects/Stutter/Stutter/obj/Release/netstandard2.0/Stutter.AssemblyInfoInputs.cache
+/Users/me4nmug./Projects/Stutter/Stutter/obj/Release/netstandard2.0/Stutter.AssemblyInfo.cs
+/Users/me4nmug./Projects/Stutter/Stutter/obj/Release/netstandard2.0/XamlC.stamp
+/Users/me4nmug./Projects/Stutter/Stutter/obj/Release/netstandard2.0/Stutter.dll
+/Users/me4nmug./Projects/Stutter/Stutter/obj/Release/netstandard2.0/ref/Stutter.dll
+/Users/me4nmug./Projects/Stutter/Stutter/obj/Release/netstandard2.0/Stutter.pdb

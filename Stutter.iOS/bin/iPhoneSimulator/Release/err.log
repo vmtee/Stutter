@@ -1,0 +1,6 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2020-05-15 12:23:51.952087-0500 Stutter.iOS[1168:34000] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=1168
+2020-05-15 12:23:51.960115-0500 Stutter.iOS[1168:34000] SecTaskCopyDebugDescription: Stutter.iOS[1168]/0#-1 LF=0
+2020-05-15 12:23:51.978140-0500 Stutter.iOS[1168:34000] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=1168
+2020-05-15 12:23:51.978356-0500 Stutter.iOS[1168:34000] SecTaskCopyDebugDescription: Stutter.iOS[1168]/0#-1 LF=0
+2020-05-15 12:23:54.005133-0500 Stutter.iOS[1168:34000] [TraitCollection] Class CKBrowserSwitcherViewController overrides the -traitCollection getter, which is not supported. If you're trying to override traits, you must use the appropriate API.

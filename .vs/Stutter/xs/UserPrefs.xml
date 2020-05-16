@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{437E130C-2F57-4E45-90A8-4DA0B2D8CAD0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Stutter/LoginPage.xaml.cs">
+    <Files>
+      <File FileName="Stutter/LoginPage.xaml.cs" Line="20" Column="6" />
+      <File FileName="Stutter/LoginPage.xaml" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/Versions/6.8.0/lib/mono/msbuild/Current/bin/Microsoft.Common.CurrentVersion.targets" />
+      <File FileName="Stutter/App.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Stutter" expanded="True">
+            <Node name="Stutter" expanded="True">
+              <Node name="MyTabbedPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Stutter.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CADD957D-CF76-42C9-A68D-CB4994B3FDBA" />
+  <MonoDevelop.Ide.ItemProperties.Stutter.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.phone_m-dpi_5_1in_oreo_8_1_-_api_27" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

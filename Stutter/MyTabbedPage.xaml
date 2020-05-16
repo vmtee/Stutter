@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            x:Class="Stutter.MyTabbedPage">
+    <!--Pages can be added as references or inline-->
+
+    <ContentPage Title="Dash" IconImageSource="round_dashboard.png">
+     <ContentPage.Content>
+
+         <ScrollView>
+            <Label Text="Content"></Label>
+         </ScrollView>
+
+     </ContentPage.Content>
+    </ContentPage>
+
+
+     <ContentPage Title="Explore" IconImageSource="round_explore.png">
+     <ContentPage.Content>
+
+         <ScrollView>
+             <Label HorizontalOptions="Center" Text="Explore"></Label>
+         </ScrollView>
+
+     </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage Title="Account" IconImageSource="round_account_circle_24.png">
+      <ContentPage.Content>
+          <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+
+              
+                        <StackLayout VerticalOptions="Center" HorizontalOptions="Center"
+                       Padding="4">
+
+              <Label Text="Profile"></Label>
+              <Button Text="This*users(name) ">
+              </Button>
+
+              <Button Text="Favorite Creators: "></Button>
+              <Button Text="Likes"></Button>
+              <Label Text="Account"></Label>
+              <StackLayout>
+                      <Button Text="Purchases"></Button>
+                      <Button Text="Settings"></Button>
+                      <Button Text="Prefrences"></Button>
+              </StackLayout>
+
+          </StackLayout>
+
+          </StackLayout>
+      </ContentPage.Content>
+    </ContentPage>
+
+
+
+     <ContentPage Title="Notifications" IconImageSource="round_notifications_black_24.png">
+     <ContentPage.Content>
+
+         <ScrollView>
+             <ListView></ListView>
+         </ScrollView>
+
+     </ContentPage.Content>
+    </ContentPage>
+
+</TabbedPage>
